@@ -34,7 +34,7 @@ public class ArrayInJava
 		System.out.println("                ");
 		
 		// Array Declaration + initialization
-		String s[]={"suraj","avantika"};
+		String s[]={"sameer","shivani"};
 		//  Result using for  each loop
 		for(String c:s)
 		{
